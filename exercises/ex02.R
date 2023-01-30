@@ -2,7 +2,7 @@
 
 # First, create 2 lists of numbers:
 # "Year" -> a list from 2023 to 2055
-# "Money" -> a list from 12000 to 100000
+# "Money" -> a list of 32 random numbers from 12000 to 100000
 
 # Your code
 
